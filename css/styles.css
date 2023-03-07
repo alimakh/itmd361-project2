@@ -1,3 +1,4 @@
+/* navigation */
 #main-navbar {
   display: flex;
   justify-content: center;
@@ -22,4 +23,45 @@
   font-weight: bold;
 }
 
-  
+/* index.html */
+body {
+  background-color: black;
+  color: blue;
+  font-family: Arial, sans-serif;
+}
+
+.schedule {
+  display: table;
+  margin: 0 auto;
+  width: 80%;
+}
+
+.schedule li {
+  display: table-row;
+  padding: 10px 0;
+}
+
+.schedule li:nth-child(odd) {
+  background-color: #eee;
+}
+
+.schedule li:nth-child(even) {
+  background-color: #ddd;
+}
+
+.schedule li span {
+  display: table-cell;
+  padding-right: 20px;
+  text-align: right;
+  font-weight: bold;
+}
+
+.schedule li p {
+  display: table-cell;
+  text-align: left;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}

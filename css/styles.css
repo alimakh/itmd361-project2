@@ -51,3 +51,6 @@ tr:hover {
   background-color: lightgray;
 }
 
+#home {
+  background-image: url('media/iit.jpeg');
+}

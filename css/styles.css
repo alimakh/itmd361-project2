@@ -54,3 +54,10 @@ tr:hover {
 #home {
   background-image: url('media/iit.jpeg');
 }
+
+.home h2 {
+  text-align: center;
+  font-size: 24px;
+  color: #4682B4;
+  
+}

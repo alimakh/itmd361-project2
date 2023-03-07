@@ -30,38 +30,47 @@ body {
   font-family: Arial, sans-serif;
 }
 
+.welcoming {
+  margin-top: 50px;
+  text-align: center;
+}
+
 .schedule {
-  display: table;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.schedule h2 {
+  margin-bottom: 30px;
+}
+
+.schedule table {
   margin: 0 auto;
+  border-collapse: collapse;
   width: 80%;
 }
 
-.schedule li {
-  display: table-row;
-  padding: 10px 0;
+.schedule td, .schedule th {
+  border: 1px solid blue;
+  padding: 10px;
 }
 
-.schedule li:nth-child(odd) {
-  background-color: #eee;
-}
-
-.schedule li:nth-child(even) {
-  background-color: #ddd;
-}
-
-.schedule li span {
-  display: table-cell;
-  padding-right: 20px;
-  text-align: right;
+.schedule th {
+  background-color: blue;
+  color: white;
   font-weight: bold;
 }
 
-.schedule li p {
-  display: table-cell;
-  text-align: left;
+.schedule td {
+  text-align: center;
 }
 
-img {
+.schedule img {
   display: block;
   margin: 0 auto;
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+  background: url(https://www.iit.edu/sites/default/files/styles/width_500/public/2019-10/mies_campus.jpg?itok=QPmPPrtf) no-repeat center center fixed; 
+  background-size: cover;
 }

@@ -52,7 +52,7 @@ tr:hover {
 }
 
 #home {
-  background-image: url('media/iit.jpeg');
+  background-image: url("media/iit.jpeg");
 }
 
 .home h2 {

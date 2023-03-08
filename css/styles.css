@@ -93,44 +93,4 @@ img.hover-effect:hover {
 
 
 /* test */
-body {
-  position: relative;
-  padding: 0;
-  margin: 0;
-}
-
-.frame {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
-.frame-left {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 20px;
-  height: 100%;
-  background-color: blue;
-}
-
-.frame-right {
-  position: absolute;
-  top: 0;
-  right: 0;
-  width: 20px;
-  height: 100%;
-  background-color: blue;
-}
-
-.frame-bottom {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  height: 20px;
-  background-color: blue;
-}
 

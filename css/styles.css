@@ -93,27 +93,3 @@ img.hover-effect:hover {
 
 
 /* test */
-body:before, body:after {
-  content: "";
-  display: block;
-  position: absolute;
-  background-color: blue;
-  height: 5px;
-  width: 100%;
-}
-
-body:before {
-  top: 0;
-  left: 0;
-}
-
-body:after {
-  bottom: 0;
-  left: 0;
-}
-
-body {
-  position: relative;
-  margin: 0;
-  padding: 0;
-}

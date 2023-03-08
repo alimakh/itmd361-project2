@@ -99,14 +99,17 @@ img.hover-effect:hover {
 
 /* videogames page */
 
+body {
+  text-align: center;
+}
 
- #videogames-page-background {
+#videogames-page-background {
   background-color: #778899;
 }
 
 #videogames-wrapper {
   width: 1200px;
-  margin: 0 30px;
+  margin: 0 auto;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
@@ -115,7 +118,6 @@ img.hover-effect:hover {
 
 .game-section {
   text-align: left;
-  float: left;
   width: 350px;
   border: 1px solid black;
   text-align: center;
@@ -144,4 +146,9 @@ img.hover-effect:hover {
   width: 320px;
   height: 180px;
 }
+
+section {
+  text-align: center;
+}
+
 

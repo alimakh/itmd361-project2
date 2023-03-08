@@ -100,17 +100,19 @@ img.hover-effect:hover {
 /* videogames page */
 
 #videogames-page-background {
-  background-color: #778899;
+  background-color: #F0F8FF
 }
 #videogames-page-background h1 {
   font-family: fantasy;
   text-align: center;
+  font-size: 48px;
   color: #4682B4;
 }
 
 #videogames-page-background h4 {
   font-family: Arial, sans-serif;
   text-align: center;
+  font-size: 18px;
   color: #4682B4;
 }
 

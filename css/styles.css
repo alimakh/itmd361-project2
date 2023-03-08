@@ -107,6 +107,8 @@ img.hover-effect:hover {
 #videogames-wrapper {
   width: 1200px;
   margin: 0 30px;
+  display: flex;
+  justify-content: center;
 }
 
 .game-section {

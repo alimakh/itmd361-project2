@@ -25,10 +25,8 @@
 
 
 /* index.html */
-#home {
-  background-color: #778899;
-
-
+.home {
+  background-color: #F0F8FF;
 }
 table {
   border-collapse: collapse;
@@ -100,7 +98,7 @@ img.hover-effect:hover {
 /* videogames page */
 
 #videogames-page-background {
-  background-color: white;
+  background-color: #F0F8FF;
 }
 #videogames-page-background h1 {
   font-family: fantasy;

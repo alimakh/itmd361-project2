@@ -32,7 +32,7 @@
 }
 table {
   border-collapse: collapse;
-  margin: 0 auto 20px; /* center the table */
+  margin: 0 auto 20px;
 }
 
 th {
@@ -111,6 +111,7 @@ img.hover-effect:hover {
   justify-content: center;
   flex-wrap: wrap;
 }
+
 
 .game-section {
   text-align: left;

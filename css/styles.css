@@ -105,17 +105,17 @@ img.hover-effect:hover {
 }
 
 #videogames-wrapper {
-  width: 1400px;
-  margin: 0 20px;
+  width: 1560px;
+  margin: 0 30px;
 }
 
 .game-section {
   text-align: left;
   float: left;
-  width: 400px;
+  width: 470px;
   border: 1px solid black;
   text-align: center;
-  margin: 0 15px 35px;
+  margin: 0 10px 30px;
 }
 
 .game-section.Bloodborne {

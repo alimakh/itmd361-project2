@@ -92,5 +92,47 @@ img.hover-effect:hover {
 }
 
 
-/* test */
+/* videogames page */
+
+
+ #videogames-page-background {
+  background-color: #8DB6CD;
+}
+
+#videogames-wrapper {
+  width: 1560px;
+  margin: 0 30px;
+}
+
+.game-section {
+  text-align: left;
+  float: left;
+  width: 470px;
+  border: 1px solid black;
+  text-align: center;
+  margin: 0 10px 30px;
+}
+
+.game-section.Bloodborne {
+  background-color: #ADD8E6;
+}
+
+.game-section.RDR2 {
+  background-color: #90EE90;
+}
+
+.game-section.DS3 {
+  background-color: #FFA07A;
+}
+
+.game-poster {
+  width: 430px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.game-trailer {
+  width: 430px;
+  height: 250px;
+}
 

@@ -25,6 +25,11 @@
 
 
 /* index.html */
+#home {
+  background-color: #778899;
+
+
+}
 table {
   border-collapse: collapse;
   margin: 0 auto 20px; /* center the table */
@@ -100,17 +105,17 @@ img.hover-effect:hover {
 }
 
 #videogames-wrapper {
-  width: 1560px;
-  margin: 0 30px;
+  width: 1400px;
+  margin: 0 20px;
 }
 
 .game-section {
   text-align: left;
   float: left;
-  width: 470px;
+  width: 400px;
   border: 1px solid black;
   text-align: center;
-  margin: 0 10px 30px;
+  margin: 0 15px 35px;
 }
 
 .game-section.Bloodborne {

@@ -105,14 +105,14 @@ img.hover-effect:hover {
 }
 
 #videogames-wrapper {
-  width: 1560px;
+  width: 1200px;
   margin: 0 30px;
 }
 
 .game-section {
   text-align: left;
   float: left;
-  width: 470px;
+  width: 350px;
   border: 1px solid black;
   text-align: center;
   margin: 0 10px 30px;
@@ -131,13 +131,13 @@ img.hover-effect:hover {
 }
 
 .game-poster {
-  width: 430px;
-  height: auto;
+  width: 320px;
+  height: 480;
   margin-bottom: 10px;
 }
 
 .game-trailer {
-  width: 430px;
-  height: 250px;
+  width: 320px;
+  height: 180px;
 }
 

@@ -94,6 +94,20 @@ img.hover-effect:hover {
   transform: scale(1.1); 
 }
 
+/* resume page */
+
+.resume-page h1 {
+  font-family: fantasy;
+  text-align: center;
+  font-size: 48px;
+  color: #4682B4;
+}
+
+.resume-page {
+  background-color: #F0F8FF;
+}
+
+
 
 /* videogames page */
 

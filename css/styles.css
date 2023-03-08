@@ -99,25 +99,32 @@ img.hover-effect:hover {
 
 /* videogames page */
 
-body {
-  text-align: center;
-}
-
 #videogames-page-background {
   background-color: #778899;
 }
+#videogames-page-background h1 {
+  font-family: fantasy;
+  text-align: center;
+  color: #4682B4;
+}
+
+#videogames-page-background h4 {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  color: #4682B4;
+}
+
 
 #videogames-wrapper {
   width: 1200px;
-  margin: 0 auto;
+  margin: 0 30px;
   display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
 }
 
 
 .game-section {
   text-align: left;
+  float: left;
   width: 350px;
   border: 1px solid black;
   text-align: center;
@@ -145,10 +152,6 @@ body {
 .game-trailer {
   width: 320px;
   height: 180px;
-}
-
-section {
-  text-align: center;
 }
 
 

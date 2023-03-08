@@ -62,6 +62,12 @@ tr:hover {
   color: #4682B4;
 
 }
+.home h4 {
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  font-size: 16px;
+  color: #4682B4;
+}
 
 .home h2 {
   text-align: center;

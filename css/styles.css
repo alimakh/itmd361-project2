@@ -159,7 +159,7 @@ img.hover-effect:hover {
 
 .game-poster {
   width: 320px;
-  height: 480px;
+  height: auto;
   margin-bottom: 10px;
 }
 

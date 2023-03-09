@@ -112,7 +112,8 @@ img.hover-effect:hover {
   border: 2px solid #4682B4;
   border-radius: 5px;
   padding: 20px;
-  margin-bottom: 30px;
+  margin: 0 auto;
+  max-width: 600px;
   transition: all 0.3s ease-in-out;
 }
 .ResumeProfile:hover {
@@ -125,7 +126,8 @@ img.hover-effect:hover {
   border: 2px solid #87CEEB;
   border-radius: 5px;
   padding: 20px;
-  margin-bottom: 30px;
+  margin: 0 auto;
+  max-width: 600px;
   transition: all 0.3s ease-in-out;
 }
 .skills:hover {
@@ -138,14 +140,14 @@ img.hover-effect:hover {
   border: 2px solid #4682B4;
   border-radius: 5px;
   padding: 20px;
-  margin-bottom: 30px;
+  margin: 0 auto;
+  max-width: 600px;
   transition: all 0.3s ease-in-out;
 }
 .Education:hover {
   transform: scale(1.05);
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
 }
-
 
 
 /* videogames page */

@@ -209,4 +209,10 @@ img.hover-effect:hover {
   height: 180px;
 }
 
+/* a blue fram for all pages */
+body {
+  border-left: 10px solid #4682B4;
+  border-right: 10px solid #4682B4;
+  border-bottom: 10px solid #4682B4;
+}
 
